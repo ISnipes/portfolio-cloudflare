@@ -20,38 +20,22 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">Isaiah Snipes </span>
+                 and I'm from <span className="yellow"> Glenside.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I'm always experimenting with my code.
                 <br />
                 <br />
-                  As a
                   <b className="yellow"> Full-Stack </b>developer,  
-                  I enjoy tackling new challenges and continuously expanding my skillset.
+                  I enjoy messing with all type of code.
                   <br />
                   <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
+                    <b className="yellow"> Java. </b>
+                    
                   <br />
                   <br />
-                  I have a passion for working
-                  with <b className="yellow">Node.js, MongoDB,</b> and
-                  <i>
-                    <b className="yellow">
-                      {" "}
-                      modern Javascript libraries and frameworks
-                    </b>
-                  </i>
-                  &nbsp; like
-                  <i>
-                    <b className="yellow"> React.js</b>
-                  </i>
-                  <br />
-                  <br />
-                  I am also interested in building new
+                  I am also interested in dipping my toes into
                   <i>
                     <b className="yellow"> Web Technologies and Products, </b>
                     as well as exploring areas related to
@@ -76,7 +60,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -87,7 +71,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +82,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -109,7 +93,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/19sajib"
+                      href=""
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
