@@ -32,7 +32,6 @@ const About = () => {
                   <br />
                   <br />I am proficient in
                     <b className="yellow"> Java. </b>
-                    
                   <br />
                   <br />
                   I am also interested in dipping my toes into
@@ -60,46 +59,13 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href=""
+                      href="https://github.com/ISnipes"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
                       aria-label="github"
                     >
                       <AiFillGithub />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="twitter"
-                    >
-                      <AiOutlineTwitter />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                      aria-label="linkedin"
-                    >
-                      <FaLinkedinIn />
-                    </a>
-                  </li>
-                  <li className="social-icons">
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour home-social-icons"
-                      aria-label="instagram"
-                    >
-                      <AiFillInstagram />
                     </a>
                   </li>
                 </ul>
